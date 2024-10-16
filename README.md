@@ -36,7 +36,7 @@
 | 30  | Nama Siswa 30       | [Belum/Menunggu/OK]| [Link Tugas 30](URL_Tugas_30)  |
 | 31  | Nama Siswa 31       | [Belum/Menunggu/OK]| [Link Tugas 31](URL_Tugas_31)  |
 | 32  | Nama Siswa 32       | [Belum/Menunggu/OK]| [Link Tugas 32](URL_Tugas_32)  |
-| 33  | sayyid abdullah ridho saputra       | [OK]| [Link Tugas 33]([URL_Tugas_33](https://github.com/sayyidabdullahridho/FETCH_API))  |
+| 33  | sayyid abdullah ridho saputra       | [OK]| [Link Tugas 33](https://github.com/sayyidabdullahridho/FETCH_API)  |
 | 34  | Nama Siswa 34       | [Belum/Menunggu/OK]| [Link Tugas 34](URL_Tugas_34)  |
 | 35  | Nama Siswa 35       | [Belum/Menunggu/OK]| [Link Tugas 35](URL_Tugas_35)  |
 | 36  | Nama Siswa 36       | [Belum/Menunggu/OK]| [Link Tugas 36](URL_Tugas_36)  |
