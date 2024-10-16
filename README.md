@@ -22,7 +22,7 @@
 | 16  | Mukhlis Abdillah 16       | [OK]| [Link Tugas 16](https://github.com/mukhlisabdll/fetch_api)  |
 | 17  | Nama Siswa 17       | [Belum/Menunggu/OK]| [Link Tugas 17](URL_Tugas_17)  |
 | 18  | Nayottama Kumara Rahayu       | [OK]| [Link Tugas 18](https://github.com/Nayottama04/FetchApp)  |
-| 19  | Nama Siswa 19       | [Belum/Menunggu/OK]| [Link Tugas 19](URL_Tugas_19)  |
+| 19  | Pasya Raffi Rivanja       | [OK]| [Link Tugas 19](https://github.com/pasyaraffi/FETCH-API)  |
 | 20  | Nama Siswa 20       | [Belum/Menunggu/OK]| [Link Tugas 20](URL_Tugas_20)  |
 | 21  | Rangga Adhi Pranata       | [OK]| [Link Tugas 21](https://github.com/ranggaappp/asychronous)  |
 | 22  | Nama Siswa 22       | [Belum/Menunggu/OK]| [Link Tugas 22](URL_Tugas_22)  |
