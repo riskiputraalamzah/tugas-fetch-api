@@ -19,7 +19,7 @@
 | 13  | Nama Siswa 13       | [Belum/Menunggu/OK]| [Link Tugas 13](URL_Tugas_13)  |
 | 14  | Nama Siswa 14       | [Belum/Menunggu/OK]| [Link Tugas 14](URL_Tugas_14)  |
 | 15  | Nama Siswa 15       | [Belum/Menunggu/OK]| [Link Tugas 15](URL_Tugas_15)  |
-| 16  | Nama Siswa 16       | [Belum/Menunggu/OK]| [Link Tugas 16](URL_Tugas_16)  |
+| 16  | Mukhlis Abdillah 16       | [OK]| [Link Tugas 16](https://github.com/mukhlisabdll/fetch_api)  |
 | 17  | Nama Siswa 17       | [Belum/Menunggu/OK]| [Link Tugas 17](URL_Tugas_17)  |
 | 18  | Nama Siswa 18       | [Belum/Menunggu/OK]| [Link Tugas 18](URL_Tugas_18)  |
 | 19  | Nama Siswa 19       | [Belum/Menunggu/OK]| [Link Tugas 19](URL_Tugas_19)  |
