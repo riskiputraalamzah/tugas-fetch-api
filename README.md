@@ -27,7 +27,7 @@
 | 21  | Rangga Adhi Pranata       | [OK]| [Link Tugas 21](https://github.com/ranggaappp/asychronous)  |
 | 22  | Nama Siswa 22       | [Belum/Menunggu/OK]| [Link Tugas 22](URL_Tugas_22)  |
 | 23  | Nama Siswa 23       | [Belum/Menunggu/OK]| [Link Tugas 23](URL_Tugas_23)  |
-| 24  | Nama Siswa 24       | [Belum/Menunggu/OK]| [Link Tugas 24](URL_Tugas_24)  |
+| 24  | Reyhan satria bintang 24 [OK]| [Link Tugas 24](https://github.com/reyhannnn1502/ui-fit-data))  |
 | 25  | Riffi Akmal H       | [OK]| [Link Tugas 25](https://github.com/riffi023/tugas-fetch) |
 | 26  | Rizki Taba Amanullah| [OK]| [Link Tugas 26](https://github.com/RizkyTaba/Fetch-Data)  |
 | 27  | Nama Siswa 27       | [Belum/Menunggu/OK]| [Link Tugas 27](URL_Tugas_27)  |
