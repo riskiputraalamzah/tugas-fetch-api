@@ -8,7 +8,7 @@
 | 2   | Nama Siswa 2        | [Belum/Menunggu/OK]| [Link Tugas 2](URL_Tugas_2)    |
 | 3   | Nama Siswa 3        | [Belum/Menunggu/OK]| [Link Tugas 3](URL_Tugas_3)    |
 | 4   | Nama Siswa 4        | [Belum/Menunggu/OK]| [Link Tugas 4](URL_Tugas_4)    |
-| 5   | Nama Siswa 5        | [Belum/Menunggu/OK]| [Link Tugas 5](URL_Tugas_5)    |
+| 5   | moch rafi fauryzan 5        | [OK]| [Link Tugas 5]([URL_Tugas_5](https://github.com/Rapzzzz885/FetchData))    |
 | 6   | Nama Siswa 6        | [Belum/Menunggu/OK]| [Link Tugas 6](URL_Tugas_6)    |
 | 7   | Nama Siswa 7        | [Belum/Menunggu/OK]| [Link Tugas 7](URL_Tugas_7)    |
 | 8   | Nama Siswa 8        | [Belum/Menunggu/OK]| [Link Tugas 8](URL_Tugas_8)    |
