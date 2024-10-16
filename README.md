@@ -24,7 +24,7 @@
 | 18  | Nayottama Kumara Rahayu       | [OK]| [Link Tugas 18](https://github.com/Nayottama04/FetchApp)  |
 | 19  | Nama Siswa 19       | [Belum/Menunggu/OK]| [Link Tugas 19](URL_Tugas_19)  |
 | 20  | Nama Siswa 20       | [Belum/Menunggu/OK]| [Link Tugas 20](URL_Tugas_20)  |
-| 21  | Nama Siswa 21       | [Belum/Menunggu/OK]| [Link Tugas 21](URL_Tugas_21)  |
+| 21  | Rangga Adhi Pranata       | [OK]| [Link Tugas 21](https://github.com/ranggaappp/asychronous)  |
 | 22  | Nama Siswa 22       | [Belum/Menunggu/OK]| [Link Tugas 22](URL_Tugas_22)  |
 | 23  | Nama Siswa 23       | [Belum/Menunggu/OK]| [Link Tugas 23](URL_Tugas_23)  |
 | 24  | Nama Siswa 24       | [Belum/Menunggu/OK]| [Link Tugas 24](URL_Tugas_24)  |
