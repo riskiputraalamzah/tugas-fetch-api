@@ -16,7 +16,7 @@
 | 10  | Nama Siswa 10       | [Belum/Menunggu/OK]| [Link Tugas 10](URL_Tugas_10)  |
 | 11  | Muhammad.Eka Rifqi Jauhar       | [OK]| [Link Tugas 11](https://github.com/ekarifqijauhar23/FETCH.API)  |
 | 12  | Nama Siswa 12       | [Belum/Menunggu/OK]| [Link Tugas 12](URL_Tugas_12)  |
-| 13  | Muhammad Faul Albani       | [OK]| [Link Tugas 13](https://github.com/Muhammad-faul/fetch-api)  |
+| 13  | Muhammad Faul Albani      | [OK]| [Link Tugas 13](https://github.com/Muhammad-faul/fetch-api)  |
 | 14  | Muhammad Hanafi       | [OK]| [Link Tugas 14](https://github.com/Yuuichi-Kun/Fetcher)  |
 | 15  | Nama Siswa 15       | [Belum/Menunggu/OK]| [Link Tugas 15](URL_Tugas_15)  |
 | 16  | Mukhlis Abdillah 16       | [OK]| [Link Tugas 16](https://github.com/mukhlisabdll/fetch_api)  |
