@@ -12,7 +12,7 @@
 | 6   | Nama Siswa 6        | [Belum/Menunggu/OK]| [Link Tugas 6](URL_Tugas_6)    |
 | 7   | Nama Siswa 7        | [Belum/Menunggu/OK]| [Link Tugas 7](URL_Tugas_7)    |
 | 8   | Nama Siswa 8        | [Belum/Menunggu/OK]| [Link Tugas 8](URL_Tugas_8)    |
-| 9   | Nama Siswa 9        | [Belum/Menunggu/OK]| [Link Tugas 9](URL_Tugas_9)    |
+| 9   | Muhammad Ariffian C.P.        | [OK]| [Link Tugas 9](https://github.com/fian910/Fetch_Api)    |
 | 10  | Nama Siswa 10       | [Belum/Menunggu/OK]| [Link Tugas 10](URL_Tugas_10)  |
 | 11  | Muhammad.Eka Rifqi Jauhar       | [OK]| [Link Tugas 11](https://github.com/ekarifqijauhar23/FETCH.API)  |
 | 12  | Nama Siswa 12       | [Belum/Menunggu/OK]| [Link Tugas 12](URL_Tugas_12)  |
