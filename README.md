@@ -15,7 +15,7 @@
 | 9   | Muhammad Ariffian C.P.        | [OK]| [Link Tugas 9](https://github.com/fian910/Fetch_Api)    |
 | 10  | Nama Siswa 10       | [Belum/Menunggu/OK]| [Link Tugas 10](URL_Tugas_10)  |
 | 11  | Muhammad.Eka Rifqi Jauhar       | [OK]| [Link Tugas 11](https://github.com/ekarifqijauhar23/FETCH.API)  |
-| 12  | Muhammad Fahril H 12       | [OK]| [Link Tugas 12]([URL_Tugas_12](https://github.com/fahrilzy/fecth))  |
+| 12  | Muhammad Fahril H       | [OK]| [Link Tugas 12](https://github.com/fahrilzy/fecth)  |
 | 13  | Muhammad Faul Albani       | OK]| [Link Tugas 13](https://github.com/Muhammad-faul/fetch-api)  |
 | 14  | Muhammad Hanafi       | [OK]| [Link Tugas 14](https://github.com/Yuuichi-Kun/Fetcher)  |
 | 15  | Nama Siswa 15       | [Belum/Menunggu/OK]| [Link Tugas 15](URL_Tugas_15)  |
