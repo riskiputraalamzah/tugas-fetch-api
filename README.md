@@ -5,10 +5,10 @@
 | Absen | Nama Siswa                    | Status Pengumpulan  | Link Pengumpulan                                                           |
 | ----- | ----------------------------- | ------------------- | -------------------------------------------------------------------------- |
 | 1     | Nama Siswa 1                  | [Belum/Menunggu/OK] | [Link Tugas 1](URL_Tugas_1)                                                |
-| 2     | Moch Farel A.s 2              | [OK]                | [Link Tugas 2](<[URL_Tugas_2](https://github.com/FARELAMRUHS/Fecth-Data)>) |
+| 2     | Moch Farel A.s 2              | [OK]                | [Link Tugas 2](https://github.com/FARELAMRUHS/Fecth-Data) |
 | 3     | Nama Siswa 3                  | [Belum/Menunggu/OK] | [Link Tugas 3](URL_Tugas_3)                                                |
 | 4     | Moch. Nasril Ilmi Nasrulloh   | [OK]                | [Link Tugas 4](https://github.com/Nasril25/FetchAPI)                       |
-| 5     | moch rafi fauryzan 5          | [OK]                | [Link Tugas 5](<[URL_Tugas_5](https://github.com/Rapzzzz885/FetchData)>)   |
+| 5     | moch rafi fauryzan 5          | [OK]                | [Link Tugas 5](https://github.com/Rapzzzz885/FetchData)   |
 | 6     | Nama Siswa 6                  | [Belum/Menunggu/OK] | [Link Tugas 6](URL_Tugas_6)                                                |
 | 7     | Nama Siswa 7                  | [Belum/Menunggu/OK] | [Link Tugas 7](URL_Tugas_7)                                                |
 | 8     | Nama Siswa 8                  | [Belum/Menunggu/OK] | [Link Tugas 8](URL_Tugas_8)                                                |
@@ -38,22 +38,7 @@
 | 32    | Satria Bima Pranama           | [OK]                | [Link Tugas 32](https://github.com/bimapra899/ui.fit_hub)                  |
 | 33    | Sayyid abdullah ridho saputra | [OK]                | [Link Tugas 33](https://github.com/sayyidabdullahridho/FETCH_API)          |
 | 34    | Nama Siswa 34                 | [Belum/Menunggu/OK] | [Link Tugas 34](URL_Tugas_34)                                              |
-| 35    | Nama Siswa 35                 | [Belum/Menunggu/OK] | [Link Tugas 35](URL_Tugas_35)                                              |
-| 36    | Nama Siswa 36                 | [Belum/Menunggu/OK] | [Link Tugas 36](URL_Tugas_36)                                              |
-| 37    | Nama Siswa 37                 | [Belum/Menunggu/OK] | [Link Tugas 37](URL_Tugas_37)                                              |
-| 38    | Nama Siswa 38                 | [Belum/Menunggu/OK] | [Link Tugas 38](URL_Tugas_38)                                              |
-| 39    | Nama Siswa 39                 | [Belum/Menunggu/OK] | [Link Tugas 39](URL_Tugas_39)                                              |
-| 40    | Nama Siswa 40                 | [Belum/Menunggu/OK] | [Link Tugas 40](URL_Tugas_40)                                              |
-| 41    | Nama Siswa 41                 | [Belum/Menunggu/OK] | [Link Tugas 41](URL_Tugas_41)                                              |
-| 42    | Nama Siswa 42                 | [Belum/Menunggu/OK] | [Link Tugas 42](URL_Tugas_42)                                              |
-| 43    | Nama Siswa 43                 | [Belum/Menunggu/OK] | [Link Tugas 43](URL_Tugas_43)                                              |
-| 44    | Nama Siswa 44                 | [Belum/Menunggu/OK] | [Link Tugas 44](URL_Tugas_44)                                              |
-| 45    | Nama Siswa 45                 | [Belum/Menunggu/OK] | [Link Tugas 45](URL_Tugas_45)                                              |
-| 46    | Nama Siswa 46                 | [Belum/Menunggu/OK] | [Link Tugas 46](URL_Tugas_46)                                              |
-| 47    | Nama Siswa 47                 | [Belum/Menunggu/OK] | [Link Tugas 47](URL_Tugas_47)                                              |
-| 48    | Nama Siswa 48                 | [Belum/Menunggu/OK] | [Link Tugas 48](URL_Tugas_48)                                              |
-| 49    | Nama Siswa 49                 | [Belum/Menunggu/OK] | [Link Tugas 49](URL_Tugas_49)                                              |
-| 50    | Nama Siswa 50                 | [Belum/Menunggu/OK] | [Link Tugas 50](URL_Tugas_50)                                              |
+| 35    | Nama Siswa 35                 | [Belum/Menunggu/OK] | [Link Tugas 35](URL_Tugas_35)                                              |                                            |
 
 > **Catatan**: Status Pengumpulan diperbarui sesuai dengan kondisi pengumpulan.
 
