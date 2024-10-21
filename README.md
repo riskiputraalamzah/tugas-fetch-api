@@ -5,7 +5,7 @@
 | Absen  | Nama Siswa           | Status Pengumpulan | Link Pengumpulan                |
 | --- | -------------------- | ------------------ | ------------------------------- |
 | 1   | Nama Siswa 1        | [Belum/Menunggu/OK]| [Link Tugas 1](URL_Tugas_1)    |
-| 2   | Nama Siswa 2        | [Belum/Menunggu/OK]| [Link Tugas 2](URL_Tugas_2)    |
+| 2   | Moch Farel A.s 2       | [OK]| [Link Tugas 2]([URL_Tugas_2](https://github.com/FARELAMRUHS/Fecth-Data))    |
 | 3   | Nama Siswa 3        | [Belum/Menunggu/OK]| [Link Tugas 3](URL_Tugas_3)    |
 | 4   | Nama Siswa 4        | [Belum/Menunggu/OK]| [Link Tugas 4](URL_Tugas_4)    |
 | 5   | moch rafi fauryzan 5        | [OK]| [Link Tugas 5]([URL_Tugas_5](https://github.com/Rapzzzz885/FetchData))    |
