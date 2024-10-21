@@ -34,7 +34,7 @@
 | 28    | Ryan Perdana Putra            | [OK]                | [Link Tugas 28](https://github.com/KingsRyanz/FetchApp)                    |
 | 29    | Nama Siswa 29                 | [Belum/Menunggu/OK] | [Link Tugas 29](URL_Tugas_29)                                              |
 | 30    | Nama Siswa 30                 | [Belum/Menunggu/OK] | [Link Tugas 30](URL_Tugas_30)                                              |
-| 31    | Nama Siswa 31                 | [Belum/Menunggu/OK] | [Link Tugas 31](URL_Tugas_31)                                              |
+| 31    | Satria Bayu Dwi Permana       | [OK]                | [Link Tugas 31](https://github.com/Bayuupratama/Fetch-Data))                                              |
 | 32    | Satria Bima Pranama           | [OK]                | [Link Tugas 32](https://github.com/bimapra899/ui.fit_hub)                  |
 | 33    | Sayyid abdullah ridho saputra | [OK]                | [Link Tugas 33](https://github.com/sayyidabdullahridho/FETCH_API)          |
 | 34    | Nama Siswa 34                 | [Belum/Menunggu/OK] | [Link Tugas 34](URL_Tugas_34)                                              |
