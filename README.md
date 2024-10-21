@@ -7,7 +7,7 @@
 | 1     | Nama Siswa 1                  | [Belum/Menunggu/OK] | [Link Tugas 1](URL_Tugas_1)                                                |
 | 2     | Moch Farel A.s 2              | [OK]                | [Link Tugas 2](<[URL_Tugas_2](https://github.com/FARELAMRUHS/Fecth-Data)>) |
 | 3     | Nama Siswa 3                  | [Belum/Menunggu/OK] | [Link Tugas 3](URL_Tugas_3)                                                |
-| 4     | Nama Siswa 4                  | [Belum/Menunggu/OK] | [Link Tugas 4](URL_Tugas_4)                                                |
+| 4     | Moch. Nasril Ilmi Nasrulloh   | [OK]                | [Link Tugas 4](https://github.com/Nasril25/FetchAPI)                       |
 | 5     | moch rafi fauryzan 5          | [OK]                | [Link Tugas 5](<[URL_Tugas_5](https://github.com/Rapzzzz885/FetchData)>)   |
 | 6     | Nama Siswa 6                  | [Belum/Menunggu/OK] | [Link Tugas 6](URL_Tugas_6)                                                |
 | 7     | Nama Siswa 7                  | [Belum/Menunggu/OK] | [Link Tugas 7](URL_Tugas_7)                                                |
